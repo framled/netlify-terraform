@@ -1,0 +1,10 @@
+# environment variables
+.env
+
+# ide files
+.idea/
+
+# terraform
+*.tfvars
+.terraform
+plan/
